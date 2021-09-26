@@ -17,5 +17,3 @@ Steps to run this application-
 4. Once you reach the exact path type "python views.py" to run the flask server
 5. Once it runs you will get a link, copy it and open it in your browser
 6. The project will be up and running
-
-Working on the deployment part where I will deploy the application on cloud using heroku.
